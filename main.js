@@ -12,7 +12,7 @@ $('.box-1').on('click', function(e) {
     }
 });
 
-let count = 1;
+let count = 0;
 
 $('.box-2').on('click', function(e) {
     count++;
